@@ -1,0 +1,2 @@
+# yieldi-eth-vault
+A dApp built with AI dApp Builder - Scaffold-ETH 2 with Foundry
